@@ -1,4 +1,5 @@
 Why This Is Optimized for Comparison
+
 1️ Fast path comparison
 if (!treeB.pathMap.has(file.fullPath)) → deleted
 
